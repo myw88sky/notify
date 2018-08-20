@@ -1,0 +1,9 @@
+F:\005 通知区动态托盘显示notifyIcon控件的使用\通知区动态托盘显示\bin\Debug\通知区动态托盘显示.exe.config
+F:\005 通知区动态托盘显示notifyIcon控件的使用\通知区动态托盘显示\bin\Debug\通知区动态托盘显示.exe
+F:\005 通知区动态托盘显示notifyIcon控件的使用\通知区动态托盘显示\bin\Debug\通知区动态托盘显示.pdb
+F:\005 通知区动态托盘显示notifyIcon控件的使用\通知区动态托盘显示\obj\Debug\notice.csprojResolveAssemblyReference.cache
+F:\005 通知区动态托盘显示notifyIcon控件的使用\通知区动态托盘显示\obj\Debug\通知区动态托盘显示.Form1.resources
+F:\005 通知区动态托盘显示notifyIcon控件的使用\通知区动态托盘显示\obj\Debug\通知区动态托盘显示.Properties.Resources.resources
+F:\005 通知区动态托盘显示notifyIcon控件的使用\通知区动态托盘显示\obj\Debug\notice.csproj.GenerateResource.Cache
+F:\005 通知区动态托盘显示notifyIcon控件的使用\通知区动态托盘显示\obj\Debug\通知区动态托盘显示.exe
+F:\005 通知区动态托盘显示notifyIcon控件的使用\通知区动态托盘显示\obj\Debug\通知区动态托盘显示.pdb
